@@ -1,0 +1,17 @@
+.header {
+  background-color: #5e42a6;
+  height: 100vh;
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  color: rgba(238, 238, 238, 0.6);
+  background-image: url(../img/intro.svg);
+
+  p {
+    margin-bottom: 4em;
+  }
+
+  .container {
+    height: 52%;
+  }
+}
